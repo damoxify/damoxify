@@ -11,5 +11,5 @@ Also, I'm improving my React skills: React Native.
 📫  You can also reach me on:
  📧  Gmail: azeemajasa@gmail.com
  🔗  Linkedin: www.linkedIn.com/in/adedamola-ajasa  
-     Twitter : ajasa_adedamola
+ 🔗  Twitter : https://twitter.com/ajasa_adedamola
 
