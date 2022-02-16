@@ -1,12 +1,12 @@
 👋 Hello, I'm damoxify!
 
 I am a software developer  with front-end skill 
-and additional knowledge of python and JavaScript . 
+and additional knowledge of python and NodeJs. 
 I´m based in Lagos, Nigeria .
 
 What I'm focusing on 🧑‍💻
 
-Currently improving my backend skills: python & django
+Currently improving my backend skills using: python & nodejs
 
 Also, I'm improving my React skills: React JS.
 
