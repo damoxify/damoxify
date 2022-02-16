@@ -8,7 +8,7 @@ What I'm focusing on 🧑‍💻
 
 Currently improving my backend skills: python & django
 
-Also, I'm improving my React skills: React Native.
+Also, I'm improving my React skills: React JS.
 
 
  📫  You can also reach me on:
