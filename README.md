@@ -6,7 +6,7 @@ I´m based in Lagos, Nigeria .
 
 What I'm focusing on 🧑‍💻
 
-Currently improving my backend skills using: python & nodejs
+Currently improving my backend skills 
 
 Also, I'm improving my React skills: React JS.
 
