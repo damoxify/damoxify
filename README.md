@@ -61,8 +61,5 @@ I'm a software engineer with a focus on backend web development, specializing in
 - **Python:** Mastering the art of building robust APIs using Python.
 - **JavaScript:**  Exploring the process of building npm packages.
 
-## 43
-### Let's Get Social
-Follow me around the web!
 
-Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's build something awesome together!
+Thanks for stopping by! Feel free to reach out to me. Let's build something awesome together!
