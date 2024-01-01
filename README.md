@@ -48,11 +48,17 @@ I'm a software engineer with a focus on backend web development, specializing in
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damoxify)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/damoxify/github-readme-stats)
 
 ## 📈 GitHub Stats
 
-![Damoxify's GitHub stats](https://github-readme-stats.vercel.app/api?username=Damoxify&show_icons=true&theme=dark)
+![Damoxify's GitHub stats](https://github-readme-stats.vercel.app/api?username=damoxify&show_icons=true&theme=radical)
 
 
 
