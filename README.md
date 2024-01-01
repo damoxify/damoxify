@@ -1,8 +1,18 @@
-![Damoxify Github Banner](img/Github-ReadMe-Banner-Thin.png)
+<h1 align="center">Hi 👋, I'm Adedamola</h1>
+<h3 align="center">An entry-level Software Engineer </h3>
 
-# 👋 Hey, I'm Damoxify!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=damoxify&label=Profile%20views&color=0e75b6&style=flat" alt="yczar" /> </p>
 
-I'm a software engineer with a focus on backend web development, specializing in Flask and PostgreSQL. While my expertise lies in crafting robust server-side solutions, I'm currently exploring the exciting world of frontend development, using React to build user-friendly and visually appealing web applications. My mission is to make the technology industry more accessible to aspiring developers and engineers by sharing the mistakes I've made and the lessons I've learned throughout my software engineering journey.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=damoxify&theme=onedark" alt="damoxify" /></a> </p>
+
+---
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damoxify&show_icons=true&locale=en&layout=compact&theme=onedark" alt="yczar" /></p>
+
+
+---
+
+Hello and welcome to my GitHub profile! My name is Adedamola Ajasa and I am a software engineer with a focus on backend web development, specializing in Flask and PostgreSQL. While my expertise lies in crafting robust server-side solutions, I'm currently exploring the exciting world of frontend development, using React to build user-friendly and visually appealing web applications. My mission is to make the technology industry more accessible to aspiring developers and engineers by sharing the mistakes I've made and the lessons I've learned throughout my software engineering journey.
 
 
 ## 🚀 What I Do
@@ -48,13 +58,7 @@ I'm a software engineer with a focus on backend web development, specializing in
 [![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damoxify)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/damoxify/github-readme-stats)
 
 ## 📈 GitHub Stats
 
